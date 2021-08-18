@@ -1,0 +1,111 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  Output.cpp
+  Input.cpp
+  XOR3.cpp
+  XOR2.cpp
+  XNOR2.cpp
+  SWITCH.cpp
+  ApplicationManager.cpp
+  Pin.cpp
+  OutputPin.cpp
+  OR2.cpp
+  NOR3.cpp
+  NOR2.cpp
+  NAND2.cpp
+  LED.cpp
+  Inverter.cpp
+  InputPin.cpp
+  Gate.cpp
+  Connection.cpp
+  Component.cpp
+  Generating Code...
+  Compiling...
+  Buffer.cpp
+  AND3.cpp
+  AND2.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  CMUgraphics.cpp
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Simulate.cpp
+  SelectAction.cpp
+  Save.cpp
+  Paste.cpp
+  Load.cpp
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\Actions\Load.cpp(26,6): warning C4101: 'NoOfComp': unreferenced local variable
+  Exit.cpp
+  Edit.cpp
+  Delete.cpp
+  Cut.cpp
+  Copy.cpp
+  ChangeSwitch.cpp
+  Generating Code...
+  Compiling...
+  BackToDesignbar.cpp
+  AddXORgate3.cpp
+  AddXORgate2.cpp
+  AddXNORgate2.cpp
+  AddSwitch.cpp
+  AddORgate2.cpp
+  AddNORgate3.cpp
+  AddNORgate2.cpp
+  AddNANDgate2.cpp
+  AddLED.cpp
+  AddLable.cpp
+  AddInvertergate.cpp
+  AddGateMenu.cpp
+  AddConnection.cpp
+  AddBuffergate.cpp
+  AddANDgate3.cpp
+  AddANDgate2.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+AddANDgate2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  graphics_prj.vcxproj -> C:\Users\Mohamed Mostafa\Downloads\Project Code Framework\Project Code Framework\Debug\graphics_prj.exe
